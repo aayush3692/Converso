@@ -1,11 +1,11 @@
 import React from 'react'
 
 const Subscription = () => {
-  return (
-    <div>
-      
-    </div>
-  )
+    return (
+        <div>
+            subs
+        </div>
+    )
 }
 
 export default Subscription
