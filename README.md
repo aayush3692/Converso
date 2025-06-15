@@ -17,8 +17,7 @@
 💡 Future Improvements
    - Topic-based learning paths
     
-    -
-    Daily learning reminders
+   - Daily learning reminders
     
    - Visual support (diagrams, charts)
     
