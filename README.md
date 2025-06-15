@@ -14,7 +14,7 @@
 
 ---
 
-💡 Future Improvements
+## 💡Future Improvements
    - Topic-based learning paths
     
    - Daily learning reminders
